@@ -1,8 +1,11 @@
 
 # Single Page Movie Application With React Router
 
+## Movies
+
 ![Movies](img/routerphoto.PNG)
 
+## Movie List
 
 ![Movies](img/routerphoto2.PNG)
 
